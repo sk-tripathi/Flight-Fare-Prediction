@@ -1,0 +1,167 @@
+aiohttp==3.8.4
+aiosignal==1.3.1
+alembic==1.10.4
+anyio==3.6.2
+apache-airflow==2.6.0
+apache-airflow-providers-common-sql==1.4.0
+apache-airflow-providers-ftp==3.3.1
+apache-airflow-providers-http==4.3.0
+apache-airflow-providers-imap==3.1.1
+apache-airflow-providers-sqlite==3.3.2
+apispec==5.2.2
+appdirs==1.4.4
+argcomplete==3.0.8
+asgiref==3.6.0
+async-timeout==4.0.2
+attrs==23.1.0
+Babel==2.12.1
+blinker==1.6.2
+Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
+brotlipy==0.7.0
+cachelib==0.9.0
+catboost==1.2
+cattrs==22.2.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer==3.1.0
+click==8.1.3
+clickclick==20.10.2
+colorama==0.4.6
+colorlog==4.8.0
+ConfigUpdater==3.1.1
+connexion==2.14.2
+contourpy==1.0.7
+cron-descriptor==1.2.35
+croniter==1.3.14
+cryptography==40.0.2
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Deprecated==1.2.13
+dill==0.3.5.1
+dnspython==2.2.1
+docutils==0.19
+email-validator==1.3.1
+et-xmlfile==1.1.0
+exceptiongroup==1.1.1
+fastapi==0.78.0
+Flask==2.2.5
+Flask-AppBuilder==4.3.0
+Flask-Babel==2.0.0
+Flask-Caching==2.0.2
+Flask-Cors==3.0.10
+Flask-JWT-Extended==4.4.4
+Flask-Limiter==3.3.1
+Flask-Login==0.6.2
+Flask-Session==0.4.1
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.1.1
+fonttools==4.39.3
+frozenlist==1.3.3
+graphviz @ file:///C:/Windows/TEMP/abs_7a4z36rraa/croots/recipe/python-graphviz_1660063185022/work
+greenlet==2.0.2
+gunicorn==20.1.0
+h11==0.14.0
+httpcore==0.17.0
+httptools==0.5.0
+httpx==0.24.0
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+imbalanced-learn==0.10.1
+imblearn==0.0
+importlib-metadata==4.13.0
+importlib-resources==5.12.0
+inflection==0.5.1
+itsdangerous==2.1.2
+Jinja2==3.1.2
+joblib==1.2.0
+jsonschema==4.17.3
+kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
+lazy-object-proxy==1.9.0
+limits==3.4.0
+linkify-it-py==2.0.2
+lockfile==0.12.2
+Mako==1.2.4
+Markdown==3.4.3
+markdown-it-py==2.2.0
+MarkupSafe==2.1.2
+marshmallow==3.19.0
+marshmallow-enum==1.5.1
+marshmallow-oneofschema==3.0.1
+marshmallow-sqlalchemy==0.26.1
+matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
+mdit-py-plugins==0.3.5
+mdurl==0.1.2
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+multidict==6.0.4
+munkres==1.1.4
+mypy-boto3-s3==1.24.76
+numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
+numpy @ file:///C:/b/abs_54abayvc9j/croot/numpy_and_numpy_base_1682520598361/work
+openpyxl==3.1.2
+ordered-set==4.1.0
+packaging==23.1
+pandas==2.0.1
+pathspec==0.9.0
+pendulum==2.1.2
+Pillow==9.5.0
+pip-chill==1.0.1
+pkgutil_resolve_name==1.3.10
+plotly==5.14.1
+pluggy==1.0.0
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+prison==0.2.1
+psutil==5.9.5
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.10.7
+Pygments==2.15.1
+PyJWT==2.6.0
+pymongo==4.2.0
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
+pyrsistent==0.19.3
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-daemon==3.0.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==0.21.0
+python-nvd3==0.15.0
+python-slugify==8.0.1
+pytz==2023.3
+pytzdata==2020.1
+PyYAML==6.0
+requests @ file:///C:/b/abs_41owkd5ymz/croot/requests_1682607524657/work
+requests-toolbelt==1.0.0
+rfc3339-validator==0.1.4
+rich==13.3.5
+rich_argparse==1.1.0
+scikit-learn==1.2.2
+scipy==1.10.1
+setproctitle==1.3.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+SQLAlchemy==1.4.48
+SQLAlchemy-JSONField==1.0.1.post0
+SQLAlchemy-Utils==0.41.1
+sqlparse==0.4.4
+starlette==0.19.1
+tabulate==0.9.0
+tenacity @ file:///C:/b/abs_ddkoa9nju6/croot/tenacity_1682972298929/work
+termcolor==2.3.0
+text-unidecode==1.3
+threadpoolctl==3.1.0
+types-s3transfer==0.6.0.post4
+typing_extensions==4.5.0
+tzdata==2023.3
+uc-micro-py==1.0.2
+unicodecsv==0.14.1
+urllib3 @ file:///C:/b/abs_3ce53vrdcr/croot/urllib3_1680254693505/work
+uvicorn==0.18.3
+watchfiles==0.17.0
+websockets==10.3
+Werkzeug==2.2.3
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+wrapt==1.15.0
+WTForms==3.0.1
+xgboost==1.6.2
+yarl==1.9.2
+zipp==3.15.0
